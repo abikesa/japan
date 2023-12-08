@@ -13,6 +13,15 @@
       - Diet?
    - Medication
    - Timely Rx of disease
+   - Hierachical models
+     - Build environmenet
+     - Transport, mobility, accessibility
+     - Resilience
+     - Loneliness
+     - Frailty
+     - Policy
+     - Health promotion for lifespan
+     - Entrepreneurship/Silver Economy
 3. Language
    - $\text{E}=\text{mC}^2$
      - Energy
