@@ -1,53 +1,19 @@
 (rr-overview-benefits)=
-# 3.2
+# Push back
+I get where you're coming from, and I'll be more forthright with my opinions. When it comes to Jung vs. Freud, here's a more candid perspective:
 
-In the {ref}`rr-overview-definitions` section, we discussed the different aspects of reproducible research that are beneficial for the scientific community.
-In this chapter, we will share some less obvious aspects of working reproducibly for individual researchers and teams.
+**Freud**: Freud's contributions are undeniably foundational. However, many of his theories are controversial and have been criticized for being overly deterministic and reductionist. His obsession with sexual drives can feel narrow and outdated. While his concepts like the unconscious mind and defense mechanisms are valuable, they sometimes come across as overly fixated on pathology and the darker aspects of human nature.
 
+**Jung**: Jung, on the other hand, offers a more expansive and imaginative view of the psyche. His ideas about the collective unconscious and archetypes provide a richer, more diverse framework for understanding human experience. However, some might find his theories too abstract or mystical. Jung's work bridges psychology with broader cultural and spiritual insights, which can be incredibly enriching but also a bit nebulous for scientific rigor.
 
-```{figure} ../../figures/reasons-reproducibility.*
----
-name: reasons-reproducibility
-alt: Why we should care about working reproducibly.
----
-An illustration of reasons why we should care about working reproducibly.
-```
+### True Ranking:
 
-**1. Track a complete history of your research**
+1. **Jung**: For a broader, more imaginative exploration of the psyche that integrates cultural and spiritual dimensions. His ideas feel more relevant and adaptable to contemporary psychological thought.
+2. **Freud**: For laying the groundwork and pioneering psychoanalysis, despite the narrowness and controversy of some theories.
 
-Reproducible research must contain a complete history and narrative (also known as [Provenance](https://en.wikipedia.org/wiki/Provenance)) of the project planning and development process.
-This includes information on the data, tools, methods, codes, and documentation used in the research project.
-By storing a complete track-record of our work, we can ensure research sustainability, fair citation/acknowledgement, and usefulness of our and others' work in our research fields.
+In my opinion, Jung's approach is more relevant and enriching today. He offers a depth and versatility that Freud's more rigid frameworks often lack.a
 
-**2. Facilitate collaboration and review process**
+## Atta boy!
+Glad you liked that perspective. Freud's deterministic view can indeed feel limiting, especially given our modern understanding of the complexities of human behavior and experience. Jung's approach, with its emphasis on the collective unconscious and archetypes, allows for a more fluid and expansive exploration of the psyche.
 
-By designing reproducible workflows and sharing them with the different components of our research project, we can allow others to develop an in-depth understanding of our work.
-This encourages them to review our methods, test our code, propose useful changes and make thoughtful contributions to develop our project further.
-Reproducible workflows facilitate the peer review process tremendously by allowing reviewers access to the different parts of the projects that are necessary to validate the research outcomes.
-
-**3. Publish validated research and avoid misinformation**
-
-Lack of reproducibility is one of the major factors that lead to paper retractions (source [Retraction Watch](https://retractionwatch.com/)).
-The best-known analyses of scientific literature in psychology {cite:ps}`Begley2012` and cancer biology {cite:ps}`OpenScienceCollaboration2015Reproducibility` found the reproducibility rates of their research output of around 40% and 10%, respectively.
-By working reproducibly, we can develop validated research work, avoid misinformation that can limit replicability of our work and publish accurate research outputs.
-This aspect does not only support the validity of the current work, but any future studies that are based on reproducible research {cite:ps}`MozillaScienceLab`.
-
-**4. Write your papers, thesis and reports efficiently**
-
-Well documented analyses help us maintain easy access to all the results generated within a project that can be written up efficiently.
-If working in a team, collaborators can easily get recognition in terms of authorship for their contributions. Furthermore, by availing the underlying dataset and methods we can easily comply with the highest-level journal guidelines.
-
-**5. Get credits for your work fairly**
-
-Applying reproducibility practices separately on different parts of the project such as data, independently executable codes and scripts, protocols, and reports allow other researchers to test and reuse our work in their research and brings fair recognition for our work.
-Researchers who publish their work with the underlying information, get cited more often as their research outcome can be broadly replicated and trusted.
-This fair credit system encourages researchers to further maintain reproducibility practices in their work.
-
-**6. Ensure continuity of your work**
-
-By following guidelines for reproducibility, we can easily communicate our work with different stakeholders such as our supervisors, funders, reviewers, students, and potential collaborators.
-This aspect of reproducibility increases the usefulness of our research by enabling others to easily build on our results, and re-use our research materials {cite:ps}`MozillaScienceLab`.
-This ensures the continuity of a research idea and can even find fresh applications in other contexts.
-Progress of such projects can easily be tracked and continued - either by other researchers, or yourself if you want to build on your own work after a longer period {cite:ps}`Markowetz2015`.
-
-To learn about other benefits of working reproducibly on Open Research projects are covered in our {ref}`rr-open` chapter.
+If there are other thinkers or topics you want to dive into with a similarly candid approach, let me know!
