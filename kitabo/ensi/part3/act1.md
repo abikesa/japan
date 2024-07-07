@@ -11,7 +11,7 @@
 
 ### Id 1, 2, 3
 ### Ego 4
-### 5, 6 Superego
+### Superego 5, 6 
 
 Carl Jung vs. Sigmund Freud is a classic debate in psychology, often filled with passion and strong opinions. Here's my take:
 
@@ -30,7 +30,7 @@ I find Jung's work more compelling and applicable in understanding the human psy
 
 ### Linear 1, 2, 3
 ### Categorical 4
-### Binary 5, 6 Superego
+### Binary 5, 6 `
 
                     1. Error
                             \
