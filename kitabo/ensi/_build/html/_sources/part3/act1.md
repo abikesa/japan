@@ -29,11 +29,11 @@ Carl Jung vs. Sigmund Freud is a classic debate in psychology, often filled with
 I find Jung's work more compelling and applicable in understanding the human psyche in a broader, more integrative way. His ideas on the collective unconscious and archetypes resonate deeply with the complexities of human experience, making him my preferred thinker in this comparison. However, Freud's pioneering work cannot be understated, and his foundational theories are essential to the study of psychology.
 
 ### Linear 1, 2, 3
-### Categorical 4
-### Binary 5, 6 `
+### Categorical [4](https://www.youtube.com/watch?v=TYAKHLrr51w)
+### Binary 5, 6 
 
                     1. Error
                             \
-    2. Fit: Bias-Variance -> 4. Rankings -> 5. Rankings -> 6. Top
+    2. Fit: Bias-Variance -> 4. Rankings -> 5. Top -> 6. Achievement
                             /
                              3. Mean
